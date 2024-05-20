@@ -9,7 +9,7 @@ function Section4() {
             2025 - AltaVerse
           </div>
           <div className='verse-img'>
-            <img src='images/ultra-verse.svg'/>
+            <img src='images/ultra-verse.svg' />
           </div>
         </div>
       </div>

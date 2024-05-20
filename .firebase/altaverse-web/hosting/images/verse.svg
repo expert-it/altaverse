@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 787" width="1600" height="787">
+	<title>blue-bg-svg</title>
+	<defs>
+		<image width="3200" height="1812" id="img1" href="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYwMCIgaGVpZ2h0PSI5MDYiIHZpZXdCb3g9IjAgMCAxNjAwIDkwNiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggb3BhY2l0eT0iMC4zMiIgZD0iTTAgMC40NDIxMzlIMTYwMFYzNjUuMjk2TDAgOTA1LjI5NlYwLjQ0MjEzOVoiIGZpbGw9InVybCgjcGFpbnQwX2xpbmVhcl81MzdfMzkzMikiLz4KPGRlZnM+CjxsaW5lYXJHcmFkaWVudCBpZD0icGFpbnQwX2xpbmVhcl81MzdfMzkzMiIgeDE9IjAiIHkxPSIwLjQ0MjEzOSIgeDI9IjE1NjIuOTMiIHkyPSI4NDMuOTgzIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSI+CjxzdG9wIHN0b3AtY29sb3I9IiMzOTVGOTYiLz4KPHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjQ0Y5QkI0Ii8+CjwvbGluZWFyR3JhZGllbnQ+CjwvZGVmcz4KPC9zdmc+Cg=="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Rectangle 14" href="#img1" transform="matrix(.5,0,0,.391,0,0)"/>
+</svg>
