@@ -2,7 +2,18 @@ import React from 'react'
 
 function Section4() {
   return (
-    <h1>Sections 4</h1>
+    <div className='scroll-effect verse flex items-center justify-between'>
+      <div className='container'>
+        <div className='verse-wrap'>
+          <div className='title text-center'>
+            2025 - AltaVerse
+          </div>
+          <div className='verse-img'>
+            <img src='images/ultra-verse.svg'/>
+          </div>
+        </div>
+      </div>
+    </div>
   )
 }
 

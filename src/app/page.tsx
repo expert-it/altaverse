@@ -8,7 +8,7 @@ import Section6 from "@/components/section6/section6";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-between p-24">
+    <main className="main">
 
       <Section1 />
       <Section2 />
