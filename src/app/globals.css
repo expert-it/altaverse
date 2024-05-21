@@ -379,10 +379,42 @@ body {
   font-family: 'Gellix';
 }
 
+@media (max-width:1366px) {
+  .bella-field button, .bella-field select {
+    height: 45px;
+  }
+  .bella-field button {
+    font-size: 16px;
+    padding: 10px;
+  }
+  .copyright p {
+    font-size: 16px;
+  }
+  .bella-field select {
+    font-size: 16px;
+    padding: 8px;
+  }
+  .copyright {
+    padding: 10px;
+  }
+  .bella-figure {
+    width: 60%;
+  }
+  .bella-cnt {
+    width: 40%;
+  }
+}
 
 @media (max-width:1300px) {
   .container {
     padding: 0 25px;
+  }
+}
+
+@media (max-width:1200px) {
+  .bella-cnt {
+    height: 400px;
+    overflow: auto;
   }
 }
 
