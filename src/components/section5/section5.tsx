@@ -11,6 +11,18 @@ function Section5() {
             WHAT IS THIS?
           </div>
           <div className='what-cnt'>
+            <div className='cnt-para'>
+              <p>Welcome to AltaVerse Alternative Tokenized multiVerse.<br/>
+              Create your AI Agent to find choices for your investments all around the world.</p>
+            </div>
+
+            <div className='cnt-title'>Watch 📺</div>
+            <p className='cnt-para'>Tune in to see your AI agents do the work. Enjoy your streaming movie created for you.</p>
+
+            <div className='cnt-title'>Create your own AI 👩‍🚀🧑‍🌾🧑‍🍳👩‍🚒👮🏾‍♂️🕵️‍♂️</div>
+            <p className='cnt-para'>Buy the entrance ticket to enjoy the amusement park a multiVersw experience.</p>
+            <p className='cnt-para'>Create multiple AI Agent to your needs.</p>
+
             <div className='cnt-title'>Ticket level Option C</div>
             <div className='cnt-list'>
               <ul>
@@ -19,15 +31,6 @@ function Section5() {
                 <li>TIP - Start at $60. Limit to 3 DESA</li>
                 <li>TIM - Mitra just Rp16500 - $1. Use existing Desa Lumbung</li>
               </ul>
-            </div>
-            <div className='cnt-title'>Ads scenario </div>
-            <div className='cnt-para'>
-              <p>
-                {"Sebar jala Otong: emak Otong sebar jala dulu yah. Baru aja bangun pagi. Emak : eh cepetan bentar lagi mesti ke sekolah Otong. Emak teriak. Otong: jalan ke ruang tamu (chat or talk) ‘hal> sebar jala buat glp07 seharga 100ribu, 20 biji"}
-              </p>
-              <p>
-                {"Iklan tutup liatin Otong udah pakai seragam SMA cium tangan emak . Iklan berakhir dengan Hp screen with AI logo dan suara Hal ‘suara hal , sebar jala berhasil dapat 20 biji glp07” dan figure emak keliatan dan teriak ‘otong dapet tuh pancingan elo’ end. Disclosure ttg mitra lumbung AMM automatic money market sebar jala (set limit) fitur."}
-              </p>
             </div>
           </div>
         </div>  
